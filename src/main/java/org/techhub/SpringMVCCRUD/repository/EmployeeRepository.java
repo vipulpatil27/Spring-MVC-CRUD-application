@@ -1,4 +1,4 @@
-  package org.techhub.SpringMVCCRUD.repository;
+package org.techhub.SpringMVCCRUD.repository;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
